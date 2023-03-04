@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "Dockerfile": "../bootstrap/generated-dists/ubuntu2204/Dockerfile",
   "features": {
   }
 }
