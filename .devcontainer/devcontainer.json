@@ -1,5 +1,7 @@
 {
   "Dockerfile": "../bootstrap/generated-dists/ubuntu2204/Dockerfile",
   "features": {
-  }
+      "ghcr.io/devcontainers/features/sshd:1": {
+        "version": "latest"
+    },  }
 }
