@@ -2,5 +2,12 @@
   "build":{
     "dockerfile": "./Dockerfile"
   },
-    "remoteUser": "samba"
+	"remoteUser": "samba",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-vscode.makefile-tools"
+			]
+		}
+	}
 }
